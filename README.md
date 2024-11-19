@@ -1,2 +1,1 @@
-# mtc-repo-prod
-prod code repo - created through tf
+This repo is for infra prod engrs
